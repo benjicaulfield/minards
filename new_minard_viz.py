@@ -72,5 +72,6 @@ def draw_polygons(mapobj):
 
 
     return mapobj
+    save("minard.html")
     
     
